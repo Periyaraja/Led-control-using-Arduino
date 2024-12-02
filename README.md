@@ -1,5 +1,8 @@
 # Led-control-using-Arduino
+Name : Periyaraja.P.M
 
+
+Reg.No : 24001966
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
@@ -58,9 +61,15 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+![Screenshot 2024-12-02 113422](https://github.com/user-attachments/assets/dc9bd009-07c3-418f-b3bd-4381c30069b8)
+
 
 ## PROGRAM
+![Screenshot 2024-12-02 113436](https://github.com/user-attachments/assets/391dc68c-24d5-4c97-b983-ccbb20a852b8)
+
 
 ## OUTPUT
+![Screenshot 2024-12-02 113446](https://github.com/user-attachments/assets/ecc3f083-d279-4ef6-a78b-c23c6c9d7533)
 
 ## RESULT
+The design and implementation of a system for LED control using an Arduino microcontroller and a push button have been completed, and the output has been verified.
